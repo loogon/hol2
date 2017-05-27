@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "hol": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "hol2",
+    "password": "sa",
+    "name": "hol",
+    "user": "root",
+    "connector": "mysql"
   }
 }
